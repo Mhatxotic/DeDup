@@ -1,0 +1,7 @@
+*
+!.gitignore
+!build.sh
+!dedup.cpp
+!xxhash.h
+!readme.md
+!license.md
